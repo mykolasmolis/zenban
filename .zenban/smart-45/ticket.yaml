@@ -10,3 +10,4 @@ acceptance-criteria:
     when: When 2
     then: Then 2
 my-custom-field: my custom value
+sprint: FY2020-1
