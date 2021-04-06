@@ -1,0 +1,12 @@
+type: story
+summary: Make rocket go now
+description: >
+  Buy some parts and build a rocket
+acceptance-criteria:
+  - given: Given
+    when: When
+    then: Then
+  - given: Given 2
+    when: When 2
+    then: Then 2
+my-custom-field: my custom value
