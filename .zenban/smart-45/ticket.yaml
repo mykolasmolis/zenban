@@ -12,3 +12,5 @@ acceptance-criteria:
 my-custom-field: my custom value
 sprint: FY2020-1
 epic: General
+comments:
+  - I would like to add some more details. Rocket must use hydrogen.
